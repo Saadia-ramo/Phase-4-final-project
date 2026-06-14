@@ -1,7 +1,7 @@
 # MOVIE RECOMMENDER SYSTEM PROJECT
 # PROJECT OVERVIEW
 
-In this project i developed a movie recommender system using MovieLens dataset. I applied machine learning techniques to suggest movies to users based on their preferences and past ratings. This system combines both content-based filtering and collaborative filtering techniques to develop a hybrid system improve recommendation quality. Later on, i developed a hybrid recommender system to eliminate the challenges of the two systems and leverage their capabalities.
+In this project i developed a movie recommender system using MovieLens dataset. I applied machine learning techniques to suggest movies to users based on their preferences and past ratings. This system combines both content-based filtering and collaborative filtering techniques to develop a hybrid system in order to improve recommendation quality. I, Later on developed a hybrid recommender system to eliminate the challenges of the two systems and leverage their capabalities.
 
 # Problem Statement
 With the large number of movies available, user often struggle to find relevant content. This project aims to solve this problem by building a system that can predict and recommend movies a user is likely to enjoy.
@@ -11,8 +11,8 @@ With the large number of movies available, user often struggle to find relevant 
 - Perform data cleaning and preprocessing
 - Conduct Exploratory Data Analysis (EDA)
 - Build recommendation models using:
-   -content-based filtering
-   -collaborative filtering
+ - content-based filtering
+ - collaborative filtering
 - Evaluate model performance using RMSE
 - Improve model accuracy through hyperparameter tuning
 -Build a hybrid model
